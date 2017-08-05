@@ -4,4 +4,4 @@
 
 "Example"
 
-![run app] (https://media.giphy.com/media/xT39DdhEHud8Htfkdi/giphy.gif)
+![run app](https://media.giphy.com/media/xT39DdhEHud8Htfkdi/giphy.gif)
